@@ -1,0 +1,70 @@
+{
+  "Indata": [
+    {
+      "id": 1,
+      "weight": "10kg",
+      "price": 100,
+      "offer": "-20%",
+      "date": "Feb 9",
+      "currentPrice": 80
+    },
+    {
+      "id": 2,
+      "weight": "20kg",
+      "price": 100,
+      "offer": "-20%",
+      "date": "Feb 9",
+      "currentPrice": 80
+    },
+    {
+      "id": 3,
+      "weight": "40kg",
+      "price": 100,
+      "offer": "-20%",
+      "date": "Feb 6",
+      "currentPrice": 80
+    },
+    {
+      "id": 4,
+      "weight": "60kg",
+      "price": 100,
+      "offer": "-20%",
+      "date": "Feb 8",
+      "currentPrice": 80
+    }
+  ],
+  "outData": [
+    {
+      "id": 1,
+      "weight": "10kg",
+      "price": 200,
+      "offer": "-20%",
+      "date": "Feb 9",
+      "currentPrice": 150
+    },
+    {
+      "id": 2,
+      "weight": "20kg",
+      "price": 300,
+      "offer": "-20%",
+      "date": "Feb 9",
+      "currentPrice": 250
+    },
+    {
+      "id": 3,
+      "weight": "40kg",
+      "price": 400,
+      "offer": "-20%",
+      "date": "Feb 9",
+      "currentPrice": 300
+    },
+    {
+      "id": 4,
+      "weight": "60kg",
+      "price": 500,
+      "offer": "-20%",
+      "date": "Feb 9",
+      "currentPrice": 400
+    }
+  ]
+}
